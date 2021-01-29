@@ -1,8 +1,10 @@
 Message multiple people on Twitter.
 
-<img src="twitter.PNG" />
+<img src="twitter.png">
 
 SETUP:
+First, get your API keys and tokens --> <a href="https://rapidapi.com/blog/how-to-use-the-twitter-api/">tutorial</a>
+Then:
 $ git clone https://github.com/Insula415/twitter-messaging/
 $ pip3 install -r requirements.txt
 $ cd twitter
