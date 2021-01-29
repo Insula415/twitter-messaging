@@ -1,4 +1,4 @@
-#Mass messager
+# Add message
 Message multiple people on Twitter.
 
 <img src="twitter.png">
