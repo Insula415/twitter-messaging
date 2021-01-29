@@ -13,4 +13,5 @@ Add the usernames to "handles.txt" (<b>Do not</b> include the @)
 <li>$ cd twitter</li>
 <li>$ python3 main.py "message you want to send"</li>
 
+The user <b>must be</b> be following your account in order for you to message them.
 
