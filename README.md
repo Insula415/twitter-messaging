@@ -1,7 +1,7 @@
 # Twitter mass messenger
 Message multiple people on Twitter.
 
-<img src="twitter.png">
+<img src="example.png">
 
 SETUP:
 First, get your API keys and tokens --> <a href="https://rapidapi.com/blog/how-to-use-the-twitter-api/">tutorial</a>
