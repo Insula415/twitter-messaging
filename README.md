@@ -3,7 +3,7 @@ Message multiple people on Twitter.
 
 <img src="example.png">
 <br>
-<img src="example2.png">
+<img src="example2.PNG">
 
 SETUP:
 First, get your API keys and tokens --> <a href="https://rapidapi.com/blog/how-to-use-the-twitter-api/">tutorial</a>
