@@ -4,7 +4,7 @@ Message multiple people on Twitter.
 <img src="example.png">
 
 Checks for duplicates in handles:
-<br>
+
 <img src="example2.PNG">
 
 SETUP:
